@@ -1,0 +1,7 @@
+Program: libopencm3-skel
+Homepage: https://github.com/rrendec/libopencm3-skel
+Bug reports: https://github.com/rrendec/libopencm3-skel/issues
+License: MIT
+
+Authors:
+Radu Rendec <radu@rendec.net>

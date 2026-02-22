@@ -1,0 +1,6 @@
+/firmware/*.d
+/firmware/*.elf
+/firmware/*.hex
+/firmware/*.ld
+/firmware/*.o
+/libopencm3
